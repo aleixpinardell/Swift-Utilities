@@ -1,6 +1,6 @@
-## Examples
+# Examples
 
-##### `firstUppercase`
+## `firstUppercase`
 
 ```
 let qk = "quitKey"
