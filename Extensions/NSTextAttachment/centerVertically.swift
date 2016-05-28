@@ -5,7 +5,7 @@ extension NSTextAttachment {
      - parameters:
         - font: The font used to determine the vertical origin of the `self.image`.
    
-     - note: If `self.image` if not set, this method does nothing.
+     - note: If `self.image` is not set, this method does nothing.
     */
     func centerVertically(font font: UIFont) {
         if let image = self.image {
